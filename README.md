@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-gold wins!
+This account belongs to [manojailuri](https://github.com/manojailuri).
 <!--
 **pugvsgold/pugvsgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
